@@ -35,6 +35,6 @@ spec:
     spec:
       containers:
       - name: hello-pod
-        image: martyre37/acg-web:0.2
+        image: martyre37/acg-web:2.0
         ports:
         - containerPort: 8080
