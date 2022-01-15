@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\-code-kubernetes",
-    "\\code-k8s",
-    "\\code-k8s\\views"
+    "\\networking"
   ],
+  "SelectedNode": "\\networking\\ping-deploy.yml",
   "PreviewInSolutionExplorer": false
 }
